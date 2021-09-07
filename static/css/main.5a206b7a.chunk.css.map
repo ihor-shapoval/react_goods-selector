@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,sCAAyC,CACzC,cAAe,CACf,iBAAkB,CACnB,cAGC,iBAAkB","file":"main.5a206b7a.chunk.css","sourcesContent":[".App {\n  font-family: Arial, Helvetica, sans-serif;\n  font-size: 18px;\n  text-align: center;\n}\n\n.add-item-btn {\n  margin-right: 10px;\n}\n"]}
